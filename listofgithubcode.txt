@@ -1,0 +1,9 @@
+http://python-crfsuite.readthedocs.io/en/latest/
+
+https://taku910.github.io/crfpp/
+
+https://github.com/glample/tagger
+
+https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
+
+http://sag.art.uniroma2.it/lu4r.html
