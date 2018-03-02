@@ -1,0 +1,5 @@
+.idea/*.*
+__pycache__/*.*
+bayesianRecognition/__pycache__/*.*
+HuricCorpus1.2/*.*
+HuricCorpus1.2.zip
